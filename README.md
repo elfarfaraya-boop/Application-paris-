@@ -1,4 +1,4 @@
-# Que faire à Paris maintenant ?
+# Que faire à Paris ?
 
 Application web qui liste les événements de Paris (concerts, expositions, ateliers...) avec la météo,
 un itinéraire Google Maps et un lien de réservation. On peut chercher par jour, thème, prix, lieu et distance.
